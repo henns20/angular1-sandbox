@@ -1,0 +1,26 @@
+{
+  "name": "angular1-sandbox",
+  "version": "1.0.0",
+  "description": "everything angular 1 in practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henns20/angular1-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henns20/angular1-sandbox/issues"
+  },
+  "homepage": "https://github.com/henns20/angular1-sandbox#readme",
+  "devDependencies": {
+    "angular": "^1.4.7",
+    "angular-mocks": "^1.4.7",
+    "angular-ui-router": "^0.2.15",
+    "karma-chrome-launcher": "^0.2.1",
+    "karma-jasmine": "^0.3.6"
+  }
+}
